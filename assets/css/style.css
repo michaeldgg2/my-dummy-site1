@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav {
+  margin-bottom: 1em;
+  font-size: 2em;
+}
