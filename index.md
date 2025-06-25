@@ -1,6 +1,3 @@
-* TOC
-{:toc}
-
 # Hello World
 
 There's another section [described below](#my-custom-header-id-name)
